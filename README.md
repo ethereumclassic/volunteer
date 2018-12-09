@@ -22,6 +22,14 @@ NO OWNER SHALL ADD OR REMOVE ANY OWNER WITHOUT EXPRESS WRITTEN CONSENT OF ALL OT
 -	Elaine Ou
 -	WhatisGravity
 
+## Contributor Licence Agreements (CLAs)
+
+Current contract: 0xA034F311C86eD32AB79fd86bEDb60F0fACD90231
+
+The purpose of a CLA is to ensure that the guardian of a project’s outputs has the necessary ownership or grants of rights over all contributions to allow them to distribute under the chosen license.
+
+If you agree to everything in this document, 'sign' our CLA use the abi in the CLA folder and send your github username to the `addMe()` function on the contract above. This contract is stored on our blockchain and serves as a permanent record of your consent.  
+
 ## Structure
 
 This “organization” is designed to operate development in a similar fashion to the Angel
