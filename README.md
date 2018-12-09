@@ -1,4 +1,4 @@
-#Code Of Conduct
+# Code Of Conduct
 ## Volunteering
 
 Ethereum Classic development is actively underway by a decentralized community development initiative run by volunteers.
@@ -15,8 +15,8 @@ For membership:
 -	Submit a PR with a valid GPG key to the volunteer list
 https://github.com/ethereumclassic/volunteer/tree/master/Volunteer-Public-Keys - GPG keys of volunteers on the Ethereum Classic project
 ### Administrator / owner access
-Owner access allows users the highest level of access to the repository and should only be granted under overwhelmingly obvious need. 
-NO OWNER SHALL ADD OR REMOVE ANY OWNER WITHOUT EXPRESS WRITTEN CONSENT OF ALL OTHER OWNERS. 
+Owner access allows users the highest level of access to the repository and should only be granted under overwhelmingly obvious need.
+NO OWNER SHALL ADD OR REMOVE ANY OWNER WITHOUT EXPRESS WRITTEN CONSENT OF ALL OTHER OWNERS.
 ### Current Owners
 -	Cody Burns
 -	Elaine Ou
@@ -42,11 +42,11 @@ If you would like to make fundamental changes to the system, please consult with
 For pull requests into any repo;
 
 -	Make sure all of your commits are atomic (one feature per commit).
--	Code contributions must be well commented
+-	Code contributions must be well commented or self-documented
 -	one-line messages are fine for small changes, but bigger changes should look like this:
 ```
 $ git commit -m "A brief summary of the commit
-> 
+>
 > A paragraph describing what changed and its impact."
 ```
 -	Please write tests and ensure they are passing
@@ -58,7 +58,7 @@ $ git commit -m "A brief summary of the commit
 
 Invitation link https://discord.gg/G7GpJPX
 
-### IRC 
+### IRC
 
 Server oftc.net, channel #etc-dev
 
@@ -66,7 +66,7 @@ Server oftc.net, channel #etc-dev
 
 https://telegram.me/ethclassic
 
-### Reddit 
+### Reddit
 http://reddit.com/r/ethereumclassic
 
 
@@ -79,17 +79,17 @@ A diversity of perspectives is important and anything you don't yet know, you ca
 
 ### Ethereum Classic Core Projects
 
-**Go-ethereum** 
+**Go-ethereum**
 
 https://github.com/ethereumclassic/go-ethereum
 
-Go language implementation of the original/classic design of the Ethereum protocol. Go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration. 
+Go language implementation of the original/classic design of the Ethereum protocol. Go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration.
 
 Development builds https://bintray.com/ethereumproject/GoEthereumClassic/go-ethereum/develop#files/
 
-Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix, @elaine
+Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity,  @splix, @elaine
 
-**Mist browser & wallet** 
+**Mist browser & wallet**
 
 https://github.com/ethereumproject/mist
 
@@ -102,25 +102,25 @@ Mist wallet associated projects:
  * Meteor-package-elements - https://github.com/ethereumproject/meteor-package-elements
  * Ether wallet - https://github.com/ethereumproject/etherwallet
 
-Contacts: 
- * Mist - IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix
- * Ether Wallet - Slack @elaine, @dontpanicburns
+Contacts:
+ * Mist - IRC Server oftc.net, channel #etc-dev, contact @whatisgravity,  @splix
+ * Ether Wallet -  @elaine, @dontpanicburns
 
 **Classic Ethereum Dapp UI Components**
 
-https://github.com/ethereumproject/classic-dapp-ui - Javascript and CSS UI components to build Dapps for Ethereum Classic. 
+https://github.com/ethereumproject/classic-dapp-ui - Javascript and CSS UI components to build Dapps for Ethereum Classic.
 
 Looking for developers, testers, designers and doc writers.
 
-Contacts: Slack - @sianyu, @splix 
+Contacts:  @sianyu, @splix
 
 **Blockchain Explorer** http://explorer.etherhub.io
 
-ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
+ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development
 
 https://github.com/ethereumclassic/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
-Contacts: Slack @elaine, @sianyu, @dontpanicburns
+Contacts:  @elaine, @sianyu, @dontpanicburns
 
 **Social Fork Analysis**
 
@@ -131,7 +131,7 @@ Contacts: IRC Server oftc.net, channel #etc-dev, @whatisgravity
 
 ## Public Trello Boards (outdated)
 
-We need a simple, visual way to coordinate plans and assignments. To make the processes in the organization transparent, we use public Trello boards. 
+We need a simple, visual way to coordinate plans and assignments. To make the processes in the organization transparent, we use public Trello boards.
 
 For those of you not familiar with Trello, Trello is a collaboration tool that organizes projects into boards. In one glance, Trello shows you what's being worked on, who's working on what, and where something is in a process. It is an easy way for volunteers to quickly find tasks that they can immediately work on.
 
@@ -140,7 +140,7 @@ These boards are public and everyone can see the progress. Write access can be g
 **Links**
 
 * Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
-* ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
+* ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development
 * Ethereum Classic Marketing & Research Team https://trello.com/ethereumclassicmr
 
 ## Banned Users
@@ -156,6 +156,6 @@ https://github.com/EOSclassic-EOSC
 Excessive troll like activity
 
 ### Lifetime ban
-#### Krykoder 
+#### Krykoder
 https://github.com/krykoder
 Hijacking Ethereum classic’s repository, removing all admins, and possible malicious activity.  
