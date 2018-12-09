@@ -162,8 +162,3 @@ Blocking a user prevents the following on all repositories:
 #### EOSclassic-EOSC
 https://github.com/EOSclassic-EOSC
 Excessive troll like activity
-
-### Lifetime ban
-#### Krykoder
-https://github.com/krykoder
-Hijacking Ethereum classic’s repository, removing all admins, and possible malicious activity.  
