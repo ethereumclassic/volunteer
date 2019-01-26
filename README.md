@@ -1,99 +1,66 @@
 # Volunteering
 
-Ethereum Classic development is actively underway by a decentralized community development initiative run by volunteers.
-It is an open organization where people are judged solely on the quality of their contributions.
+Ethereum Classic development is actively underway by a decentralized community of volunteers. It is an open source project, where people are judged solely on the quality of their contributions.
 
-Are you interested in volunteering your time to help the development of Ethereum Classic? Post in the issues section, tell us about yourself and we will try to help you find a place you can contribute to Ethereum Classic development.
-
-If you are interested in community organization, you can find more information about volunteering with other community organizers here: https://github.com/ethereumclassic
+Are you interested in volunteering your time to help the development of Ethereum Classic? Post in the issues section, tell us about yourself and we will try to help you find a place you can contribute to the Ethereum Classic project.
 
 ## Community
 
-### DISCORD
+There are many channels of communication to interact with the ETC development community. More information can be found at https://ethereumclassic.org/community/.
 
-Invitation link https://discord.gg/G7GpJPX
+## Open Standard
 
-### IRC 
+Volunteers are not required to know or own Ethereum Classic. If you have a good idea or well reasoned contribution, then that is all that matters. If you are capable of solving a problem, then by all means feel free to contribute!
 
-Server oftc.net, channel #etc-dev
+### Protect Your Account
 
-### Telegram
+Take _reasonable_ security measures to ensure your account is protected by enabling 2FA on your Github account. 
 
-https://telegram.me/etcdev
+https://github.com/settings/security
 
-## Structure
+### Signing Your Work
 
-I propose that we operate our development in a similar fashion to the Angel
-volunteer system found at CCC events. Existing volunteers will do their best to
-help new volunteers, but there is no strict leadership hierarchy.
-Instead of a chain of command, I propose that we operate on a merit system where you are judged only on your code & discussion
-contributions, not your age, race, gender, sex, nationality or anything else, just on
-what you contribute. You do not even need to own any Ethereum classic, if you have a good idea or a well reasoned contribution, that is all that matters.
+Git is not foolproof, and it is strongly encouraged for volunteers to contribute with _reasonable_ security by [signing commits](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work).
 
-If you see anything that needs to be fixed and you are capable, please
-feel free to fix it, create a local fork, make the change and submit a pull request.
-Everyone is currently working in a volunteer capacity, the fastest way to enact changes is to create pull requests.
+#### Volunteers' GPG Keys
 
+Volunteers can submit their public keys here: https://github.com/ethereumclassic/volunteer/tree/master/Volunteer-Public-Keys
 
-If you would like to make fundamental changes to the system, please consult
-with your peers, have them review your code, and make sure we have
-consensus. If the issue is contentious we should work to include the input of the wider community.
+### Pull Requests
 
-Any donations received will be fairly distributed among active volunteers.
+The most efficient way to enact changes is to create a _pull request_. Create a local fork, make the change, and submit a _pull request_.
 
-## Objective
+### ECIPs
 
-Our primary priority is maintaining existing clients currently maintained by the ICO backed Ethereum Foundation with
-the DAO hard fork code removed to ensure easy access to the original/classic Ethereum network. We do this by keeping
-up with upstream patches for every major client and provide an alternative which does not require the user to use
-a special flag to run a node on the original/classic Ethereum network. 
+Volunteers seeking to make fundamental changes to the system, please see [Ethereum Classic Improvement Proposal](https://github.com/ethereumclassic/ECIPs/) section. As always, consult the developer community for peer review and ensure the broader community has consensus.
 
-As more people volunteer, we can shift our focus, begin to close issues shared by both ourselves and the upstream developers.
-In my opinion, we should first start with restoration and access to the original/classic Ethereum network and then focus on
-security oriented updates while the growing developer community discusses and builds a roadmap for future updates to the system
-and which clients and projects we should support with community development.
+## Founding Principles
+
+Ethereum Classic is founded on the principles of state immutability, decentralization, and backward compatibility.
+
+[ETC Declaration of Independence](https://ethereumclassic.github.io/assets/ETC_Declaration_of_Independence.pdf)
 
 ## Projects
 
-A wide variety of projects need assistance, regardless of your experience, if you are interested, please feel free to volunteer!
-A diversity of perspectives is important and anything you don't yet know, you can learn over time.
+Many projects could use assistance regardless of experience. Contribute PRs, ask fellow volunteers how you can contribute, ask for help when you need it, and grow with the ecosystem!
 
 ### Ethereum Classic Core Projects
 
-Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
-
-Build Server (TeamCity) http://build.ethereumclassic.org/login.html
-
-Process of client restoration https://github.com/ethereumproject/volunteer/tree/master/Client%20Collaboration
-
 **Go-ethereum** 
 
-https://github.com/ethereumproject/go-ethereum
+https://github.com/ethereumclassic/go-ethereum
 
-Go language implementation of the original/classic design of the Ethereum protocol. Go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration. 
+Also known as _Classic Geth_, the Go language implementation of the "original/classic" Ethereum protocol. Go-ethereum is under active development.
 
-Development builds https://bintray.com/ethereumproject/GoEthereumClassic/go-ethereum/develop#files/
+Contacts: @tzdybal, @whilei, @r8d8... also IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix, @elaine
 
-Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix, @elaine
+---
 
-**Bomb Defusal**
+### Associated Projects
 
-ECIP-1010 Delay Difficulty Bomb Explosion - https://github.com/ethereumproject/ECIPs/blob/master/ECIPs/ECIP-1010.md
+__!__ Working on a project using ETC and looking for collaborators Feel free to add it to this list.
 
-Related issues:
-
-https://github.com/ethereumproject/ECIPs/issues/4
-
-https://github.com/ethereumproject/volunteer/issues/28
-
-https://github.com/ethereumproject/go-ethereum/issues/11
-
-Public board https://trello.com/b/ZuTNRTsW/etc-bomb-disposal
-
-Contacts: IRC Server oftc.net, channel #etc-dev @whatisgravity, Slack @dontpanicburns, @splix, @elaine
-
-
-**Mist browser & wallet** 
+**Mist Browser & Wallet** 
 
 https://github.com/ethereumproject/mist
 
@@ -118,18 +85,15 @@ Looking for developers, testers, designers and doc writers.
 
 Contacts: Slack - @sianyu, @splix 
 
+**Blockchain Explorer** 
 
-### Associated Projects
+http://etherhub.io
 
-Working on a project using ETC and looking for collaborators? Feel free to add it to this list.
+In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
 
-**Blockchain Explorer** http://explorer.etherhub.io
+https://github.com/ethereumclassic/explorer
 
-ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
-
-https://github.com/ethereumproject/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
-
-Contacts: Slack @elaine, @sianyu, @dontpanicburns
+Contacts: @elaine, @sianyu, @dontpanicburns, @YazzyYaz, @pyskell
 
 **Social Fork Analysis**
 
@@ -143,28 +107,6 @@ https://github.com/realcodywburns/ETC-CX-Wallet - Ethereum classic chrome extens
 
 Contacts: Slack @dontpanicburns
 
-**Tortuga**
-
-https://github.com/realcodywburns/tortuga - Localbitcoins for ETC traded on chain
-
-Contacts: Slack @dontpanicburns
-
 ... more to come ...
 
-## Volunteers' GPG Keys
 
-https://github.com/ethereumproject/volunteer/tree/master/Volunteer-Public-Keys - GPG keys of volunteers on the Ethereum Classic project
-
-## Public Trello Boards
-
-We need a simple, visual way to coordinate plans and assignments. To make the processes in the organization transparent, we use public Trello boards. 
-
-For those of you not familiar with Trello, Trello is a collaboration tool that organizes projects into boards. In one glance, Trello shows you what's being worked on, who's working on what, and where something is in a process. It is an easy way for volunteers to quickly find tasks that they can immediately work on.
-
-These boards are public and everyone can see the progress. Write access can be granted after a established track record of activity in Ethereum Classic Project.
-
-**Links**
-
-* Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
-* ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
-* Ethereum Classic Marketing & Research Team https://trello.com/ethereumclassicmr
