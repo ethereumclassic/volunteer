@@ -20,7 +20,7 @@ NO OWNER SHALL ADD OR REMOVE ANY OWNER WITHOUT EXPRESS WRITTEN CONSENT OF ALL OT
 ### Current Owners
 -	Cody Burns
 -	Elaine Ou
--	WhatisGravity
+-	
 
 ## Contributor Licence Agreements (CLAs)
 
@@ -162,3 +162,16 @@ Blocking a user prevents the following on all repositories:
 #### EOSclassic-EOSC
 https://github.com/EOSclassic-EOSC
 Excessive troll like activity
+
+#### Krykoder
+
+grand theft repo
+
+#### whatisgravity
+
+stolen account
+
+##### somethingblue
+
+spamming
+
