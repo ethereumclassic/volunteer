@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <body>
+
+	  <script type="text/javascript" src="https://rawgit.com/ethereum/web3.js/develop/dist/web3.min.js"></script>
+		<script type="text/javascript">
+      var uri = 'https://etc-parity.0xinfra.com/';
+      var contractAddress = "0xA034F311C86eD32AB79fd86bEDb60F0fACD90231";
+
+      var web3 = new Web3(new Web3.providers.HttpProvider(uri));
+      var abiArray =[{"constant":true,"inputs":[],"name":"count","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"contributors","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_username","type":"string"}],"name":"addMe","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"}];
+
+      var contract = web3.eth.contract(abiArray).at(contractAddress);
+
+      window.onload = function() {
+	      var list = [];
+	      var count = contract.count();
+	      for(i=0; i<count; i++){
+	        if(i == count){
+  		 let con = "\"" + contract.contributors(i) + "\""
+		 list.push(con);
+		} else {
+		 let con = "\"" + contract.contributors(i) + "\","
+		 list.push(con);
+		}
+	      }
+	      document.getElementById("conlist").innerHTML = "{ \"contributors\" : [" + list + " ]}";
+     }
+    </script>
+    <p id="conlist">0</p>
+  </body>
+</html>
