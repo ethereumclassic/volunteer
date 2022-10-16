@@ -11,15 +11,7 @@ If you are interested in community organization, you can find more information a
 
 ### DISCORD
 
-Invitation link https://discord.gg/G7GpJPX
-
-### IRC 
-
-Server oftc.net, channel #etc-dev
-
-### Telegram
-
-https://telegram.me/etcdev
+Invitation link https://discord.com/invite/ethereumclassic
 
 ## Structure
 
@@ -58,113 +50,10 @@ and which clients and projects we should support with community development.
 A wide variety of projects need assistance, regardless of your experience, if you are interested, please feel free to volunteer!
 A diversity of perspectives is important and anything you don't yet know, you can learn over time.
 
-### Ethereum Classic Core Projects
-
-Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
-
-Build Server (TeamCity) http://build.ethereumclassic.org/login.html
-
-Process of client restoration https://github.com/ethereumproject/volunteer/tree/master/Client%20Collaboration
-
-**Go-ethereum** 
-
-https://github.com/ethereumproject/go-ethereum
-
-Go language implementation of the original/classic design of the Ethereum protocol. Go-ethereum is currently restored and under active development, other clients are in the restoration process or require volunteers to contribute to their restoration. 
-
-Development builds https://bintray.com/ethereumproject/GoEthereumClassic/go-ethereum/develop#files/
-
-Contacts: IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix, @elaine
-
-**Bomb Defusal**
-
-ECIP-1010 Delay Difficulty Bomb Explosion - https://github.com/ethereumproject/ECIPs/blob/master/ECIPs/ECIP-1010.md
-
-Related issues:
-
-https://github.com/ethereumproject/ECIPs/issues/4
-
-https://github.com/ethereumproject/volunteer/issues/28
-
-https://github.com/ethereumproject/go-ethereum/issues/11
-
-Public board https://trello.com/b/ZuTNRTsW/etc-bomb-disposal
-
-Contacts: IRC Server oftc.net, channel #etc-dev @whatisgravity, Slack @dontpanicburns, @splix, @elaine
-
-
-**Mist browser & wallet** 
-
-https://github.com/ethereumproject/mist
-
-Mist wallet associated projects:
- * Dapp-styles - https://github.com/ethereumproject/dapp-styles
- * Meteor-dapp-wallet - https://github.com/ethereumproject/meteor-dapp-wallet
- * Meteor-package-accounts - https://github.com/ethereumproject/meteor-package-accounts
- * Meteor-package-blocks - https://github.com/ethereumproject/meteor-package-blocks
- * Meteor-package-tools - https://github.com/ethereumproject/meteor-package-tools
- * Meteor-package-elements - https://github.com/ethereumproject/meteor-package-elements
- * Ether wallet - https://github.com/ethereumproject/etherwallet
-
-Contacts: 
- * Mist - IRC Server oftc.net, channel #etc-dev, contact @whatisgravity, Slack @splix
- * Ether Wallet - Slack @elaine, @dontpanicburns
-
-**Classic Ethereum Dapp UI Components**
-
-https://github.com/ethereumproject/classic-dapp-ui - Javascript and CSS UI components to build Dapps for Ethereum Classic. 
-
-Looking for developers, testers, designers and doc writers.
-
-Contacts: Slack - @sianyu, @splix 
-
-
-### Associated Projects
-
-Working on a project using ETC and looking for collaborators? Feel free to add it to this list.
-
-**Blockchain Explorer** http://explorer.etherhub.io
-
-ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
-
-https://github.com/ethereumproject/explorer - In response to none of the existing major Ethereum blockchain explorers being open source, as a community we have decided to develop a quality open source block chain explorer. Providing an open source solution which allows for easy verification of contracts supports increased contract complexity within the ecosystem.
-
-Contacts: Slack @elaine, @sianyu, @dontpanicburns
-
-**Social Fork Analysis**
-
-https://github.com/ethereumproject/social-fork-analysis - A citizen journalism project doing social network analysis with the goal of creating an easy to use data set for journalists and researchers.
-
-Contacts: IRC Server oftc.net, channel #etc-dev, @whatisgravity
-
-**ETC-CX-Wallet**
-
-https://github.com/realcodywburns/ETC-CX-Wallet - Ethereum classic chrome extension wallet. This project is a sub-project of https://github.com/ethereumproject/etherwallet
-
-Contacts: Slack @dontpanicburns
-
-**Tortuga**
-
-https://github.com/realcodywburns/tortuga - Localbitcoins for ETC traded on chain
-
-Contacts: Slack @dontpanicburns
-
-... more to come ...
-
 ## Volunteers' GPG Keys
 
 https://github.com/ethereumproject/volunteer/tree/master/Volunteer-Public-Keys - GPG keys of volunteers on the Ethereum Classic project
 
-## Public Trello Boards
-
-We need a simple, visual way to coordinate plans and assignments. To make the processes in the organization transparent, we use public Trello boards. 
-
-For those of you not familiar with Trello, Trello is a collaboration tool that organizes projects into boards. In one glance, Trello shows you what's being worked on, who's working on what, and where something is in a process. It is an easy way for volunteers to quickly find tasks that they can immediately work on.
-
-These boards are public and everyone can see the progress. Write access can be granted after a established track record of activity in Ethereum Classic Project.
-
 **Links**
 
-* Ethereum Classic Clients public board https://trello.com/b/aiSzWBm7/core-etc-development
-* ETC Block Explorer public board https://trello.com/b/W3ftl57z/etc-block-explorer-development 
-* Ethereum Classic Marketing & Research Team https://trello.com/ethereumclassicmr
+* Ethereum Classic website: https://ethereumclassic.org/
