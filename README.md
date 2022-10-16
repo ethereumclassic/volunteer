@@ -53,6 +53,17 @@ In my opinion, we should first start with restoration and access to the original
 security oriented updates while the growing developer community discusses and builds a roadmap for future updates to the system
 and which clients and projects we should support with community development.
 
+## On-Boarding
+
+For security reasons, each new volunteer will need to pass some basic tests before becoming part of the org. 
+
+- They must show they have contributed to ETC in some meaningful way
+- They must have a github account with 2FA enabled
+- They must show they are not a sock puppet account (anti-sybil)
+  - Partaking in any public ETC call (dev, community, interviews, etc) that shows a unique voice and knowledge of ETC
+  - If they wish to remain publicly anonymous, a private chat existing volunteers
+  - Some other means of proving individuality
+
 ## Projects
 
 A wide variety of projects need assistance, regardless of your experience, if you are interested, please feel free to volunteer!
