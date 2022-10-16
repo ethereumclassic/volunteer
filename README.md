@@ -60,9 +60,9 @@ For security reasons, each new volunteer will need to pass some basic tests befo
 - They must show they have contributed to ETC in some meaningful way
 - They must have a github account with 2FA enabled
 - They must show they are not a sock puppet account (anti-sybil) by:
-  - Partaking in any public ETC call (dev, community, interviews, etc) that shows a unique voice and knowledge of ETC
-  - If they wish to remain publicly anonymous, conducting a private voice chat with existing volunteers
-  - Demonstrate some other means of proving individuality (e.g. cryptographic signature)
+  - Partaking in any public event (dev, community, interviews, podcast, etc) that demonstrates a unique voice and knowledge of ETC
+  - Conducting a private voice chat with existing volunteers
+  - Demonstrate some other means of proving individuality (e.g. cryptographic signature linking to meaningful contributions)
 
 ## Projects
 
